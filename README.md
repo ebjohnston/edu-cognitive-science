@@ -7,13 +7,11 @@ Metropolitan State University of Denver
 ## Assignments
 ### 01 Introduction
 [Description]
-### 02 Kity Story
+### 02 Meta
 [Description]
-### 03 Meta
+### 03 Rules
 [Description]
-### 04 Rules
+### 04 ID3
 [Description]
-### 05 ID3
-[Description]
-### 06 Neural Network
+### 05 Neural Network
 [Description]

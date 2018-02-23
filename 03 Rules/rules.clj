@@ -12,6 +12,7 @@
 ;;   -Joseph Brennan
 ;; ========================================
 ;; Partially written by: Jody Paul
+
 (ns rules.rules
   (:require [rules.utils :refer :all]
             [clojure.walk :refer :all]

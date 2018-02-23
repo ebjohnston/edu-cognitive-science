@@ -23,6 +23,7 @@
 ;; Working memory is a collection of frames
 ;;   that represent known facts.
 ;; ========================================
+
 (ns rules.core
   (:gen-class)
   (:require [clojure.pprint :refer :all]

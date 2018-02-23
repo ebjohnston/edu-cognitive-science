@@ -12,6 +12,7 @@
 ;;   -Joseph Brennan
 ;; ========================================
 ;; Originally written by: Jody Paul
+
 (ns rules.utils
   (:require [clojure.pprint :refer :all]))
 
